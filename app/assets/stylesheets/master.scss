@@ -36,24 +36,19 @@ hr {
 }
 
 h1 {
-font-family: 'cinzelblack', sans-serif;
+font-family: 'playfair_displayregular', sans-serif;
 font-weight: bold;
 font-size: 48px;
 }
 
 h2 {
-font-family: 'cinzelregular', sans-serif;
+font-family: 'playfair_displayregular', sans-serif;
+padding-bottom: 20px;
 
 }
 
 .logo:hover {
   text-decoration: none;
-}
-
-.slogan {
-  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
-  font-style: italic;
-  padding-top: 26px;
 }
 
 .links {
@@ -76,19 +71,20 @@ font-family: 'cinzelregular', sans-serif;
 }
 
 .slogan {
-  font-family: 'cinzelblack', sans-serif;
-  font-style: italic;
+  font-family: 'playfair_displaybold', sans-serif;
+  font-weight: 500;
+  font-size: x-large;
   padding-top: 26px;
 }
 
 .footer-blurb {
-  font-family: 'cinzelblack', sans-serif;
+  font-family: 'playfair_displayregular', sans-serif;
   font-style: bold;
   text-align: right;
 }
 
 .about {
-  font-family: 'cinzelblack', sans-serif;
+  font-family: 'playfair_displayregular', sans-serif;
 }
 
 @media (max-width: 750px) {
